@@ -1,0 +1,5 @@
+{
+  "name": "Student Results Portal",
+  "description": "A secure portal for students to view their exam results by verifying their identity with birth date and mobile number. Features Arabic UI and CSV data loading.",
+  "requestFramePermissions": []
+}
